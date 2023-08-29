@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(57, 62, 70);
+  display: block;
+  margin: 8px;
+}
+
+.heading {
+  display: block;
+  text-align: center;
+}
+
+.heading h1 {
+  font-family: 'Lobster', cursive;
+  /* font-family: 'Roboto', sans-serif;
+  font-family: 'Rubik', sans-serif; */
+  font-size: 8rem;
+  color: rgb(78, 204, 163);
+  margin: 30px;
+}
