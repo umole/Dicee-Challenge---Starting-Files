@@ -17,3 +17,24 @@ body {
   color: rgb(78, 204, 163);
   margin: 30px;
 }
+
+.dices {
+  display: flex;
+  flex-direction: row;
+  width: 70%;
+  gap: 40px;
+  justify-content: center; 
+  text-align: center;
+  margin: auto; /* Center horizontally */
+}
+
+.player1 h3 {
+  color:rgb(78, 204, 163);
+  font-family: 'Lobster', cursive;
+} 
+
+footer {
+  color: aliceblue;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+}
